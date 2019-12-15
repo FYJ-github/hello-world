@@ -1,6 +1,6 @@
 名称：CI
 
-on: [push]
+on: [push] thought
 
 jobs:
   build:
